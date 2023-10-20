@@ -19,9 +19,7 @@
 
 
 ## Contributors
-- TienKim
-- QuocToan
-- MinhHieu
+- Le Dai Thang - B19DCCN657
 
 ## ERD
 <img src="https://firebasestorage.googleapis.com/v0/b/todo-app-tienkim.appspot.com/o/diagram.PNG?alt=media&token=656d0b0c-0540-4257-a90a-3c024f50946b" />
@@ -216,7 +214,7 @@ npm start
 - Login, Register, Forgot Password, ResetPassword .
 - CRUD Products, Users, Carts, Favorite, Order...
 - Axios Products, Carts, Orders...
-- Products url query (http://tienkim9920.herokuapp.com/api/product)
+- Products url query 
 - Send email to user.
 - Draw route between two location
 - Payment on paypal
